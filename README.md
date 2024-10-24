@@ -1,2 +1,2 @@
 # bookmarks
-Bookmarks sinced with floccus
+Bookmarks sinced with <a href="https://github.com/floccusaddon/floccus">floccus</a>
